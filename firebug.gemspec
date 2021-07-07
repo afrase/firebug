@@ -34,7 +34,7 @@ Gem::Specification.new do |spec| # rubocop:disable BlockLength
   spec.add_development_dependency 'rake', '~> 12.3', '>= 12.3.2'
   spec.add_development_dependency 'rspec', '~> 3.8'
   spec.add_development_dependency 'rspec_junit_formatter', '~> 0.4.1'
-  spec.add_development_dependency 'rubocop', '~> 0.74.0'
+  spec.add_development_dependency 'rubocop', '~> 1.18.3'
   spec.add_development_dependency 'rubocop-performance', '~> 1.5.2'
   spec.add_development_dependency 'rubocop-rspec', '~> 1.32'
   spec.add_development_dependency 'simplecov', '~> 0.17'
